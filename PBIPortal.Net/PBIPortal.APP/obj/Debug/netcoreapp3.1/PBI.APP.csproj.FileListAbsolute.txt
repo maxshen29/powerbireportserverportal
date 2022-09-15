@@ -1,0 +1,15 @@
+D:\PBISSO\Vue.NetCore-master3.1\Vue.NetCore-master\Vue.Net\PBI.APP\bin\Debug\netcoreapp3.1\PBI.APP.deps.json
+D:\PBISSO\Vue.NetCore-master3.1\Vue.NetCore-master\Vue.Net\PBI.APP\bin\Debug\netcoreapp3.1\PBI.APP.dll
+D:\PBISSO\Vue.NetCore-master3.1\Vue.NetCore-master\Vue.Net\PBI.APP\bin\Debug\netcoreapp3.1\PBI.APP.pdb
+D:\PBISSO\Vue.NetCore-master3.1\Vue.NetCore-master\Vue.Net\PBI.APP\obj\Debug\netcoreapp3.1\PBI.APP.AssemblyInfoInputs.cache
+D:\PBISSO\Vue.NetCore-master3.1\Vue.NetCore-master\Vue.Net\PBI.APP\obj\Debug\netcoreapp3.1\PBI.APP.AssemblyInfo.cs
+D:\PBISSO\Vue.NetCore-master3.1\Vue.NetCore-master\Vue.Net\PBI.APP\obj\Debug\netcoreapp3.1\PBI.APP.dll
+D:\PBISSO\Vue.NetCore-master3.1\Vue.NetCore-master\Vue.Net\PBI.APP\obj\Debug\netcoreapp3.1\PBI.APP.pdb
+D:\PBISSO\Vue.NetCore-master3.1\Vue.NetCore-master\Vue.Net\PBI.APP\obj\Debug\netcoreapp3.1\PBI.APP.csprojAssemblyReference.cache
+D:\PBISSO\Vue.NetCore-master3.1\Vue.NetCore-master\Vue.Net\PBI.APP\bin\Debug\netcoreapp3.1\VOL.Core.dll
+D:\PBISSO\Vue.NetCore-master3.1\Vue.NetCore-master\Vue.Net\PBI.APP\bin\Debug\netcoreapp3.1\VOL.Entity.dll
+D:\PBISSO\Vue.NetCore-master3.1\Vue.NetCore-master\Vue.Net\PBI.APP\bin\Debug\netcoreapp3.1\VOL.System.dll
+D:\PBISSO\Vue.NetCore-master3.1\Vue.NetCore-master\Vue.Net\PBI.APP\bin\Debug\netcoreapp3.1\VOL.Core.pdb
+D:\PBISSO\Vue.NetCore-master3.1\Vue.NetCore-master\Vue.Net\PBI.APP\bin\Debug\netcoreapp3.1\VOL.Entity.pdb
+D:\PBISSO\Vue.NetCore-master3.1\Vue.NetCore-master\Vue.Net\PBI.APP\bin\Debug\netcoreapp3.1\VOL.System.pdb
+D:\PBISSO\Vue.NetCore-master3.1\Vue.NetCore-master\Vue.Net\PBI.APP\obj\Debug\netcoreapp3.1\PBI.APP.csproj.CopyComplete

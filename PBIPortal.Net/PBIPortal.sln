@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PBIPortal.APP", "PBIPortal.APP\PBIPortal.APP.csproj", "{3D66BB31-C744-439C-B45A-3C0B81474D72}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PBIPortal.Builder", "PBIPortal.Builder\PBIPortal.Builder.csproj", "{5AE1EE32-1CAA-4E9A-92A2-CCE73A353B30}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PBIPortal.Core", "PBIPortal.Core\PBIPortal.Core.csproj", "{2EB011D6-1795-48A6-8255-B45B9198228F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PBIPortal.Entity", "PBIPortal.Entity\PBIPortal.Entity.csproj", "{6E4388B2-B0FA-448D-A13D-1367E53890D6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PBIPortal.System", "PBIPortal.System\PBIPortal.System.csproj", "{699E48A2-A746-4F6B-8232-AE0EF7C88E52}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PBIPortal.WebApi", "PBIPortal.WebApi\PBIPortal.WebApi.csproj", "{0EA7D2F7-CF6E-42B3-8009-6DD152CAAC91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerBI.SSO", "..\PBIServer.SSO\PowerBI.SSO.csproj", "{FE32AA5A-8EAA-43B9-87EE-73271F89BA52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D66BB31-C744-439C-B45A-3C0B81474D72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D66BB31-C744-439C-B45A-3C0B81474D72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D66BB31-C744-439C-B45A-3C0B81474D72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D66BB31-C744-439C-B45A-3C0B81474D72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AE1EE32-1CAA-4E9A-92A2-CCE73A353B30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AE1EE32-1CAA-4E9A-92A2-CCE73A353B30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AE1EE32-1CAA-4E9A-92A2-CCE73A353B30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AE1EE32-1CAA-4E9A-92A2-CCE73A353B30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EB011D6-1795-48A6-8255-B45B9198228F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EB011D6-1795-48A6-8255-B45B9198228F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EB011D6-1795-48A6-8255-B45B9198228F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EB011D6-1795-48A6-8255-B45B9198228F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E4388B2-B0FA-448D-A13D-1367E53890D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E4388B2-B0FA-448D-A13D-1367E53890D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E4388B2-B0FA-448D-A13D-1367E53890D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E4388B2-B0FA-448D-A13D-1367E53890D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{699E48A2-A746-4F6B-8232-AE0EF7C88E52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{699E48A2-A746-4F6B-8232-AE0EF7C88E52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{699E48A2-A746-4F6B-8232-AE0EF7C88E52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{699E48A2-A746-4F6B-8232-AE0EF7C88E52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EA7D2F7-CF6E-42B3-8009-6DD152CAAC91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EA7D2F7-CF6E-42B3-8009-6DD152CAAC91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EA7D2F7-CF6E-42B3-8009-6DD152CAAC91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EA7D2F7-CF6E-42B3-8009-6DD152CAAC91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE32AA5A-8EAA-43B9-87EE-73271F89BA52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE32AA5A-8EAA-43B9-87EE-73271F89BA52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE32AA5A-8EAA-43B9-87EE-73271F89BA52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE32AA5A-8EAA-43B9-87EE-73271F89BA52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B6F8CD0-546F-442D-ABCE-92EF6E3C1386}
+	EndGlobalSection
+EndGlobal

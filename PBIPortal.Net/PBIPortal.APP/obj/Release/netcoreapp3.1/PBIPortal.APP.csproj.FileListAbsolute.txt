@@ -1,0 +1,15 @@
+D:\PBISSO\中国农业科学院油料作物研究所\PBISSO\PBIPortal.Net\PBIPortal.APP\bin\Release\netcoreapp3.1\PBIPortal.APP.deps.json
+D:\PBISSO\中国农业科学院油料作物研究所\PBISSO\PBIPortal.Net\PBIPortal.APP\bin\Release\netcoreapp3.1\PBIPortal.APP.dll
+D:\PBISSO\中国农业科学院油料作物研究所\PBISSO\PBIPortal.Net\PBIPortal.APP\bin\Release\netcoreapp3.1\PBIPortal.APP.pdb
+D:\PBISSO\中国农业科学院油料作物研究所\PBISSO\PBIPortal.Net\PBIPortal.APP\bin\Release\netcoreapp3.1\PBIPortal.Core.dll
+D:\PBISSO\中国农业科学院油料作物研究所\PBISSO\PBIPortal.Net\PBIPortal.APP\bin\Release\netcoreapp3.1\PBIPortal.Entity.dll
+D:\PBISSO\中国农业科学院油料作物研究所\PBISSO\PBIPortal.Net\PBIPortal.APP\bin\Release\netcoreapp3.1\PBIPortal.System.dll
+D:\PBISSO\中国农业科学院油料作物研究所\PBISSO\PBIPortal.Net\PBIPortal.APP\bin\Release\netcoreapp3.1\PBIPortal.Core.pdb
+D:\PBISSO\中国农业科学院油料作物研究所\PBISSO\PBIPortal.Net\PBIPortal.APP\bin\Release\netcoreapp3.1\PBIPortal.Entity.pdb
+D:\PBISSO\中国农业科学院油料作物研究所\PBISSO\PBIPortal.Net\PBIPortal.APP\bin\Release\netcoreapp3.1\PBIPortal.System.pdb
+D:\PBISSO\中国农业科学院油料作物研究所\PBISSO\PBIPortal.Net\PBIPortal.APP\obj\Release\netcoreapp3.1\PBIPortal.APP.csprojAssemblyReference.cache
+D:\PBISSO\中国农业科学院油料作物研究所\PBISSO\PBIPortal.Net\PBIPortal.APP\obj\Release\netcoreapp3.1\PBIPortal.APP.AssemblyInfoInputs.cache
+D:\PBISSO\中国农业科学院油料作物研究所\PBISSO\PBIPortal.Net\PBIPortal.APP\obj\Release\netcoreapp3.1\PBIPortal.APP.AssemblyInfo.cs
+D:\PBISSO\中国农业科学院油料作物研究所\PBISSO\PBIPortal.Net\PBIPortal.APP\obj\Release\netcoreapp3.1\PBIPortal.APP.csproj.CopyComplete
+D:\PBISSO\中国农业科学院油料作物研究所\PBISSO\PBIPortal.Net\PBIPortal.APP\obj\Release\netcoreapp3.1\PBIPortal.APP.dll
+D:\PBISSO\中国农业科学院油料作物研究所\PBISSO\PBIPortal.Net\PBIPortal.APP\obj\Release\netcoreapp3.1\PBIPortal.APP.pdb
