@@ -1,5 +1,7 @@
 这是Power BI Report Server 自定义门户，
 帮助本地部署Power BI Report Server 与内部系统的集成，打通SSO
+demo地址 ：http://datagenis.com:8080/ 
+
 若需要详细的技术帮助请联系：
 18628037379
 
